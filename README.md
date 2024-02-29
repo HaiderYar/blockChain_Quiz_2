@@ -1,5 +1,3 @@
-# blockChain_Quiz_2
-
 # Git commands used:
 1. git clone (url)
 2. git branch [branch-name]
